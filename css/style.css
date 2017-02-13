@@ -133,10 +133,6 @@ a:focus{
 	padding: 7% 0; 
 }
 
-#tf-vocabulary{
-	padding: 7% 0; 
-}
-
 .media-left.media-middle i {
 	padding: 20px 30px 20px 0;
 	font-size: 30px;
@@ -156,8 +152,16 @@ a:focus{
 	padding: 5%  0 8% 0;
 }
 
-#tf-grammar{
+#tf-reading{
+	padding: 5%  0 8% 0;
+}
+
+#tf-vocabulary{
 	background: #f1f1f1;
+	padding: 5%  0 8% 0;
+}
+
+#tf-grammar{
 	padding: 5%  0 8% 0;
 }
 
